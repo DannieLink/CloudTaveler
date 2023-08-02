@@ -1,0 +1,10 @@
+{
+  "outPath": "target/doc",
+  "projectName": "云端旅行家",
+  "openUrl": "http://mengaliang.top:7700/api",
+  "appToken": "8c3a8d9fe092473180187e24a09c0ae2",
+  "debugEnvName":"本地环境",
+  "debugEnvUrl":"http://127.0.0.1:8080",
+  "tornaDebug": true,
+  "replace": true
+}

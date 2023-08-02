@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.29">
+    <CLASSES>
+      <root url="jar://F:/studySoft/apache-maven-3.5.2-bin/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.29/tomcat-embed-websocket-9.0.29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/studySoft/apache-maven-3.5.2-bin/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.29/tomcat-embed-websocket-9.0.29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/studySoft/apache-maven-3.5.2-bin/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.29/tomcat-embed-websocket-9.0.29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
